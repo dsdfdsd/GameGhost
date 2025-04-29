@@ -1,0 +1,17 @@
+RUS:
+Игра. Чтобы скомпилировать данный файл нужно загрузить библиотеку pygame, а также потом pyinstaller.
+И прописать в терминал (в пайчарме) надо прописать pyinstaller --onefile main.py, а также потом закинуть в 1 папку
+fonts, images, sounds. И игра будет запущена.
+Управление:
+A - влево
+D - вправо
+Пробел - прыжок
+
+ENG:
+Game. To compile this file, you need to download the pygame library, and then pyinstaller.
+And register in the terminal (in the paycharm) it is necessary to register pyinstaller --onefile main.py , and then put it in 1 folder
+fonts, images, sounds. And the game will be launched.
+Management:
+A - left
+D - right
+SPACE - jump
